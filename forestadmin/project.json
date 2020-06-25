@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "tryber/sd-0x-block16-project-react-testing-library-tests",
+    "name": "tryber/sd-04-project-react-testing-library-tests",
     "description": "Projeto sobre React Testing Library",
     "enabled": true,
-    "deadline": "2020-06-20 17:10:00",
+    "deadline": "2020-07-06 17:10:00",
     "requirements": [
       {
         "description": "App mutation test",
