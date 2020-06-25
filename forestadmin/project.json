@@ -29,7 +29,7 @@
         "description": "Pokedex mutation test",
         "enabled": true,
         "bonus": false
-      }
+      },
       {
         "description": "Pokemon mutation test",
         "enabled": true,
